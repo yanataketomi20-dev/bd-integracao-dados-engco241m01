@@ -11,7 +11,7 @@
  | Nome | Matrícula | Usuário do GitHub |
 | --- | --- | --- |
 |YANA SAYURI | 2407328 | yanataketomi20-dev  |
-|  |  |  |
+|GUSTAVO MAIA | 2410024 | gustagolmaia-hir0  |
 |  |  |  |
 |  |  |  |
 
